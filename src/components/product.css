@@ -1,0 +1,22 @@
+.product 
+{
+    border: 1px solid #6a6a6a;
+    display: inline-block;
+    margin: 5px;
+    height: 320px;
+    width: 250px;
+    border-radius: 5px;
+}
+
+.prices 
+{
+    margin: 5px;
+    margin-bottom: 5px;
+    display: inline-block;
+    align-content: center;
+}
+
+.product img {
+    width: 200px;
+    height: 190px;
+}
